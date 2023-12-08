@@ -1,0 +1,25 @@
+We are going to list our what are world looks like, its states and actuations to we can perform.
+
+The task, we are a student in University and we recieve many different deadlines and expectations from our teachers.
+We have to manage our time and our tasks to be able to deliver the best results and also have time for ourselves.
+
+# The World
+Limit the problem to just the making sure we complete the tasks and watch recordings that we need to watch.
+
+# States
+We have 3 states:
+- Watching a recording
+- Finished watching a recording
+- Doing a task
+- Finished doing a task
+
+# Actuations
+Watch Recording
+Stop Watching Recording
+Do Task
+Stop Doing Task
+
+# We want to have dependency such that in the problem we can state that we have to watch a sequence of recordings,
+ in order to do a specific task.
+
+# We will keep this simple 
