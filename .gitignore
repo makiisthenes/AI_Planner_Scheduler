@@ -1,0 +1,4 @@
+*.py
+.vscode
+.idea
+project_url.txt
